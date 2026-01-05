@@ -9,8 +9,10 @@ import 'package:new_apta_grading/features/auth/data/bloc/auth_bloc.dart';
 import 'package:new_apta_grading/features/auth/data/cubit/login_c_cubit.dart';
 import 'package:new_apta_grading/features/home/data/bloc/home_bloc.dart';
 import 'package:new_apta_grading/features/home/data/cubit/home_c_cubit.dart';
+import 'package:new_apta_grading/widgets.dart';
 
 part './features/splash/presentation/pages/splash_page.dart';
 part './features/auth/presentation/pages/login_page.dart';
 part './features/home/presentation/pages/home_page.dart';
 part './features/setting/presentation/pages/setting_page.dart';
+part './features/home/presentation/pages/insert_sortasi_page.dart';
